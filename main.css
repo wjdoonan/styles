@@ -1,1 +1,6 @@
-
+.bold {
+    text-emphasis: bold;
+}
+.italic {
+    text-emphasis: italic;
+}
