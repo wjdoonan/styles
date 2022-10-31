@@ -4,3 +4,12 @@
 .italic {
     text-emphasis: italic;
 }
+.textLeft {
+    text-align: left;
+}
+.textRight {
+    text-align: right;
+}
+.textCenter {
+    text-align: center;
+}
