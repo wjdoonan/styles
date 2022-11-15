@@ -1,15 +1,4 @@
-.bold {
-    text-emphasis: bold;
-}
-.italic {
-    text-emphasis: italic;
-}
-.textLeft {
-    text-align: left;
-}
-.textRight {
-    text-align: right;
-}
-.textCenter {
-    text-align: center;
-}
+/* text styles */
+.bold {text-emphasis: bold;}.italic {text-emphasis: italic;}.textLeft {text-align: left;}.textRight {text-align: right;}.textCenter {text-align: center;}
+/* theme colors */
+.warning {color: rgb(255, 81, 81);}.danger {color: orange;}.safe {color: green;} .grain {color: wheat;}.ocean {color: rgb(90, 133, 234);} .seaweed {color: seagreen;}
