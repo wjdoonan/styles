@@ -1,3 +1,7 @@
 /* text styles */
 .bold {text-emphasis: bold;}.italic {text-emphasis: italic;}.textLeft {text-align: left;}.textRight {text-align: right;}.textCenter {text-align: center;}
 /* theme colors */
+
+.zebraTable:nth-child(odd) {
+    background-color: gray;
+}
